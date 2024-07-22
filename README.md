@@ -3,9 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ! my english is so bad
 ----------------------
-
-so i want to be frontend and And now I'm studying the language required in the front end.
-
 * 🌍  I'm based in thailand
 * ✉️  You can contact me at [camppubg@gmail.com](mailto:camppubg@gmail.com)
 
