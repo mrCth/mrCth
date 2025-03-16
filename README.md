@@ -1,36 +1,76 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is C nice to meet you
-==========================================================================================================================================
 
-! my english is so bad
-----------------------
-* 🌍  I'm based in thailand
-* ✉️  You can contact me at [camppubg@gmail.com](mailto:camppubg@gmail.com)
+# 👋 Hi there, I'm Nobphawit Audomsri
 
-<a href="https://www.twitter.com/msr_c_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/msr_c_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+## 💻 Full Stack Developer
 
-### Skills
+![Profile Views](https://komarev.com/ghpvc/?username=nobphawit&color=brightgreen)
+
+----------
+
+### 🚀 About Me
+
+I'm a Full Stack Developer passionate about building efficient, user-friendly applications. I enjoy working with both front-end and back-end technologies and am committed to creating elegant and effective solutions.
+
+----------
+
+### 🛠️ Skills & Technologies
+
+#### Front-end:
+
+-   JavaScript 
+-   React.js / Next.js
+-   HTML5 / CSS3
+-   Tailwind CSS / Bootstrap
 
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-</p>
+#### Back-end:
+
+-   Python
+-   PHP 
+-   RESTful API / GraphQL
+
+#### Database:
+
+-   MySQL / PostgreSQL
 
 
-### Socials
+----------
 
-<p align="left"> <a href="https://www.github.com/mrCth" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/naphawit-audomsri-535097262/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/msr_c_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### 🌟 Featured Projects
 
-### Badges
+#### [Greenwy](https://github.com/nobphawit/project1) { unready }
 
-<b>My GitHub Stats</b>
+Greenwy is an IoT system that allows users to conveniently control electrical appliances in their gardens via a mobile app. The system focuses on saving energy, increasing convenience, and promoting an environmentally friendly lifestyle.
 
-<a href="http://www.github.com/mrCth"><img src="https://github-readme-stats.vercel.app/api?username=mrCth&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mrCth's GitHub stats" /></a>
+----------
 
-<a href="https://github.com/mrCth" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrCth&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 📈 GitHub Stats
+
+![Nobphawit's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobphawit&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nobphawit&layout=compact&theme=tokyonight)
+
+----------
+
+### 📫 Contact Me
+
+-   📧 Email: camppubg@gmail.com
+
+
+----------
+
+
+### 🤝 Open to Collaboration!
+
+I'm always open to collaborating on interesting projects. If you have something exciting in mind or need assistance, don't hesitate to reach out!
+
+```javascript
+const nobphawit = {
+  code: ["JavaScript", "TypeScript", "Python", "PHP"],
+  tools: ["React", "Node", "Express", "Vue", "Laravel", "MongoDB"],
+  challenge: "Currently learning about Blockchain and AI"
+}
+
+```
+
+⭐️ From [Nobphawit Audomsri](https://github.com/nobphawit)
